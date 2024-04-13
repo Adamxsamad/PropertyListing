@@ -22,7 +22,7 @@ This Node.js application provides a backend system for managing real estate prop
 ## Installation and Setup
 -Clone the repository and navigate to the project directory:
 bash
-git clone [https://github.com/yourGitHubUsername/property-management-system.git](https://github.com/Adamxsamad/PropertyListing)
+git clone (https://github.com/Adamxsamad/PropertyListing)
 cd property-management-system
 
 -Create a `.env` file in the root directory and configure the required environment variables:
